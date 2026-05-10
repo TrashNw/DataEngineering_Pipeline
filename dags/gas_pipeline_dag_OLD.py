@@ -25,7 +25,7 @@ def generate_fake_data():
 
     fake = Faker()
     
-    # Eszközök generálása (CSV-be a metaadatoknak megfelelően)
+    # Eszközök generálása
     devices = []
     for _ in range(100):
         devices.append({
@@ -36,7 +36,7 @@ def generate_fake_data():
         })
     devices_df = pd.DataFrame(devices)
     
-    # Fogyasztási adatok (Parquet formátum - félstrukturált/tömörített)
+    # Fogyasztási adatok
     consumption_data = []
     for _ in range(1000):
         dev = devices_df.sample(1).iloc[0]
@@ -72,7 +72,6 @@ def run_transformations(db_path="/opt/airflow/data/gas_warehouse.duckdb"):
     df_readings = df_readings.dropna(subset=['consumption'])
 
     # 2. Dimenzió táblák létrehozása (Csillag séma)
-    # dim_time
     df_time = pd.DataFrame()
     df_time['timestamp'] = df_readings['timestamp'].unique()
     df_time['hour'] = df_time['timestamp'].dt.hour

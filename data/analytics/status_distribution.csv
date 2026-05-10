@@ -1,0 +1,4 @@
+status,event_count,percentage
+LOW_BATTERY,338,33.8
+SIGNAL_LOSS,334,33.4
+OK,328,32.8

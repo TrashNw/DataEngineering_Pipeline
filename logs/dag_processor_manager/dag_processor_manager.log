@@ -1,0 +1,576 @@
+[2026-05-10T10:21:59.696+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-05-10T10:21:59.697+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-05-10T10:21:59.698+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-05-10T10:21:59.699+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T10:21:59.704+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T10:26:59.741+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T10:26:59.776+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T10:32:00.324+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T10:32:01.268+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T10:37:01.275+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T10:37:02.522+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T10:42:07.932+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T10:42:21.443+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T10:47:08.226+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T10:47:29.737+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T10:52:29.219+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T10:52:29.337+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T10:57:30.364+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T10:58:12.356+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T11:02:49.833+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:02:49.908+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T11:08:04.638+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:09:37.361+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T11:13:04.865+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:13:12.652+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T11:18:07.441+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:21:39.855+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-05-10T11:21:39.856+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-05-10T11:21:39.857+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-05-10T11:21:39.858+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:21:39.899+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T11:26:40.040+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:26:40.080+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T11:31:40.189+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:31:40.234+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T11:36:40.341+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:36:40.370+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T11:41:40.480+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:41:40.528+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T11:44:56.513+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2026-05-10T11:45:46.210+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-05-10T11:45:46.210+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-05-10T11:45:46.212+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-05-10T11:45:46.212+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:45:46.266+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-10T11:50:46.389+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:50:46.473+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-10T11:50:47.604+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         0           1  0.11s           2026-05-10T11:50:46
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           0           1  0.11s           2026-05-10T11:50:46
+================================================================================
+[2026-05-10T11:51:17.785+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         0           1  0.07s           2026-05-10T11:51:16
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           0           1  0.06s           2026-05-10T11:51:16
+================================================================================
+[2026-05-10T11:51:47.960+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         0           1  0.06s           2026-05-10T11:51:46
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           0           1  0.06s           2026-05-10T11:51:46
+================================================================================
+[2026-05-10T11:52:02.486+0000] {manager.py:1128} WARNING - Skipping processing of missing file: /opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py
+[2026-05-10T11:52:18.556+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                           1           0  0.13s           2026-05-10T11:52:14
+================================================================================
+[2026-05-10T11:52:48.778+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                           1           0  0.14s           2026-05-10T11:52:44
+================================================================================
+[2026-05-10T11:53:19.009+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                           1           0  0.10s           2026-05-10T11:53:15
+================================================================================
+[2026-05-10T11:53:49.193+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                           1           0  0.11s           2026-05-10T11:53:45
+================================================================================
+[2026-05-10T11:54:19.320+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                           1           0  0.11s           2026-05-10T11:54:15
+================================================================================
+[2026-05-10T11:54:49.516+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                           1           0  0.11s           2026-05-10T11:54:45
+================================================================================
+[2026-05-10T11:55:19.643+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                           1           0  0.10s           2026-05-10T11:55:15
+================================================================================
+[2026-05-10T11:55:46.808+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:55:46.855+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-10T11:55:49.922+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.21s           2026-05-10T11:55:47
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.16s           2026-05-10T11:55:45
+================================================================================
+[2026-05-10T11:56:09.596+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/gas_pipeline_dag.py exited with return code 1.
+[2026-05-10T11:56:20.276+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         0          -1  0.59s           2026-05-10T11:56:09
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.22s           2026-05-10T11:56:09
+================================================================================
+[2026-05-10T11:56:50.413+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.17s           2026-05-10T11:56:39
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.09s           2026-05-10T11:56:40
+================================================================================
+[2026-05-10T11:57:20.865+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.14s           2026-05-10T11:57:12
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.14s           2026-05-10T11:57:12
+================================================================================
+[2026-05-10T11:57:51.111+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.18s           2026-05-10T11:57:43
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.13s           2026-05-10T11:57:43
+================================================================================
+[2026-05-10T11:58:12.561+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2026-05-10T11:59:12.052+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-05-10T11:59:12.053+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-05-10T11:59:12.055+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-05-10T11:59:12.056+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T11:59:12.176+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-10T11:59:12.254+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/gas_pipeline_dag.py                                  206  0.04s             0           0
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    209  0.03s             0           0
+================================================================================
+[2026-05-10T11:59:12.898+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py exited with return code 1.
+[2026-05-10T11:59:42.706+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           0          -1  0.68s           2026-05-10T11:59:12
+/opt/airflow/dags/gas_pipeline_dag.py                                  226  0.00s             1           0  0.37s           2026-05-10T11:59:12
+================================================================================
+[2026-05-10T12:00:12.829+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.17s           2026-05-10T11:59:42
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.09s           2026-05-10T11:59:43
+================================================================================
+[2026-05-10T12:00:43.145+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.16s           2026-05-10T12:00:14
+/opt/airflow/dags/gas_pipeline_dag.py                                  246  0.00s             1           0  0.12s           2026-05-10T12:00:13
+================================================================================
+[2026-05-10T12:01:13.359+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.12s           2026-05-10T12:00:44
+/opt/airflow/dags/gas_pipeline_dag.py                                  256  0.00s             1           0  0.09s           2026-05-10T12:00:43
+================================================================================
+[2026-05-10T12:01:43.609+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.13s           2026-05-10T12:01:27
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.12s           2026-05-10T12:01:27
+================================================================================
+[2026-05-10T12:02:14.127+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.14s           2026-05-10T12:02:11
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.12s           2026-05-10T12:02:11
+================================================================================
+[2026-05-10T12:02:44.397+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.21s           2026-05-10T12:02:41
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.14s           2026-05-10T12:02:41
+================================================================================
+[2026-05-10T12:03:14.637+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.18s           2026-05-10T12:03:11
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.12s           2026-05-10T12:03:11
+================================================================================
+[2026-05-10T12:03:44.884+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.18s           2026-05-10T12:03:41
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.12s           2026-05-10T12:03:41
+================================================================================
+[2026-05-10T12:04:12.130+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T12:04:12.235+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-10T12:04:15.031+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.23s           2026-05-10T12:04:12
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.13s           2026-05-10T12:04:12
+================================================================================
+[2026-05-10T12:04:45.339+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.18s           2026-05-10T12:04:42
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.09s           2026-05-10T12:04:42
+================================================================================
+[2026-05-10T12:05:15.582+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.17s           2026-05-10T12:05:12
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.12s           2026-05-10T12:05:12
+================================================================================
+[2026-05-10T12:05:45.862+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.20s           2026-05-10T12:05:42
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.14s           2026-05-10T12:05:42
+================================================================================
+[2026-05-10T12:06:12.056+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2026-05-10T12:07:44.950+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-05-10T12:07:44.951+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-05-10T12:07:44.953+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-05-10T12:07:44.954+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T12:07:45.054+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-10T12:07:45.132+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/gas_pipeline_dag.py                                  206  0.04s             0           0
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    209  0.03s             0           0
+================================================================================
+[2026-05-10T12:07:45.822+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/gas_pipeline_dag.py exited with return code 1.
+[2026-05-10T12:08:15.595+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         0          -1  0.73s           2026-05-10T12:07:45
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    216  0.00s             1           0  0.37s           2026-05-10T12:07:45
+================================================================================
+[2026-05-10T12:08:45.830+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.17s           2026-05-10T12:08:16
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    226  0.00s             1           0  0.12s           2026-05-10T12:08:15
+================================================================================
+[2026-05-10T12:09:16.043+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.12s           2026-05-10T12:08:46
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    236  0.00s             1           0  0.09s           2026-05-10T12:08:45
+================================================================================
+[2026-05-10T12:09:46.197+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.19s           2026-05-10T12:09:16
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.10s           2026-05-10T12:09:17
+================================================================================
+[2026-05-10T12:10:16.529+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.16s           2026-05-10T12:09:47
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    256  0.00s             1           0  0.12s           2026-05-10T12:09:46
+================================================================================
+[2026-05-10T12:10:46.743+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.12s           2026-05-10T12:10:17
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    266  0.00s             1           0  0.09s           2026-05-10T12:10:16
+================================================================================
+[2026-05-10T12:11:16.859+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py                           1           0  0.18s           2026-05-10T12:10:46
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.09s           2026-05-10T12:10:47
+================================================================================
+[2026-05-10T12:11:47.163+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.18s           2026-05-10T12:11:18
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    286  0.00s             1           0  0.11s           2026-05-10T12:11:17
+================================================================================
+[2026-05-10T12:12:17.376+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.11s           2026-05-10T12:11:48
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    296  0.00s             1           0  0.10s           2026-05-10T12:11:47
+================================================================================
+[2026-05-10T12:12:45.553+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T12:12:45.654+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-10T12:12:47.683+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    306  0.00s             1           0  0.18s           2026-05-10T12:12:17
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.10s           2026-05-10T12:12:18
+================================================================================
+[2026-05-10T12:12:49.749+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2026-05-10T12:21:28.875+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-05-10T12:21:28.875+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-05-10T12:21:28.877+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-05-10T12:21:28.878+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T12:21:28.976+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-10T12:21:29.061+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/gas_pipeline_dag.py                                  206  0.04s             0           0
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    209  0.03s             0           0
+================================================================================
+[2026-05-10T12:21:29.783+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/gas_pipeline_dag.py exited with return code 1.
+[2026-05-10T12:21:59.693+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         0          -1  0.76s           2026-05-10T12:21:29
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    216  0.00s             1           0  0.55s           2026-05-10T12:21:29
+================================================================================
+[2026-05-10T12:22:29.912+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                                         1           0  0.16s           2026-05-10T12:21:59
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    226  0.00s             1           0  0.09s           2026-05-10T12:21:59
+================================================================================
+[2026-05-10T12:23:00.196+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    239  0.00s             1           0  0.16s           2026-05-10T12:22:30
+/opt/airflow/dags/gas_pipeline_dag.py                                  236  0.01s             1           0  0.09s           2026-05-10T12:22:30
+================================================================================
+[2026-05-10T12:23:30.409+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                  246  0.01s             1           0  0.15s           2026-05-10T12:23:00
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    249  0.00s             1           0  0.09s           2026-05-10T12:23:00
+================================================================================
+[2026-05-10T12:24:00.628+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    259  0.00s             1           0  0.16s           2026-05-10T12:23:30
+/opt/airflow/dags/gas_pipeline_dag.py                                  256  0.01s             1           0  0.10s           2026-05-10T12:23:30
+================================================================================
+[2026-05-10T12:24:30.849+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                  266  0.01s             1           0  0.16s           2026-05-10T12:24:00
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    269  0.00s             1           0  0.10s           2026-05-10T12:24:00
+================================================================================
+[2026-05-10T12:25:01.064+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    279  0.00s             1           0  0.17s           2026-05-10T12:24:31
+/opt/airflow/dags/gas_pipeline_dag.py                                  276  0.01s             1           0  0.10s           2026-05-10T12:24:30
+================================================================================
+[2026-05-10T12:25:31.300+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                  286  0.01s             1           0  0.16s           2026-05-10T12:25:01
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    289  0.00s             1           0  0.11s           2026-05-10T12:25:01
+================================================================================
+[2026-05-10T12:26:01.519+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    299  0.00s             1           0  0.15s           2026-05-10T12:25:31
+/opt/airflow/dags/gas_pipeline_dag.py                                  296  0.01s             1           0  0.10s           2026-05-10T12:25:31
+================================================================================
+[2026-05-10T12:26:29.731+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-10T12:26:29.771+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-10T12:26:31.802+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                  306  0.01s             1           0  0.16s           2026-05-10T12:26:01
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    309  0.00s             1           0  0.11s           2026-05-10T12:26:01
+================================================================================
+[2026-05-10T12:27:02.012+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    319  0.00s             1           0  0.15s           2026-05-10T12:26:31
+/opt/airflow/dags/gas_pipeline_dag.py                                  316  0.01s             1           0  0.10s           2026-05-10T12:26:31
+================================================================================
+[2026-05-10T12:27:32.245+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                  326  0.01s             1           0  0.16s           2026-05-10T12:27:02
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    329  0.00s             1           0  0.10s           2026-05-10T12:27:02
+================================================================================
+[2026-05-10T12:28:02.483+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    339  0.00s             1           0  0.17s           2026-05-10T12:27:32
+/opt/airflow/dags/gas_pipeline_dag.py                                  336  0.01s             1           0  0.12s           2026-05-10T12:27:32
+================================================================================
+[2026-05-10T12:28:32.732+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/gas_pipeline_dag.py                                  346  0.01s             1           0  0.18s           2026-05-10T12:28:02
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    349  0.00s             1           0  0.12s           2026-05-10T12:28:02
+================================================================================
+[2026-05-10T12:29:02.959+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py    359  0.00s             1           0  0.17s           2026-05-10T12:28:32
+/opt/airflow/dags/gas_pipeline_dag.py                                  356  0.01s             1           0  0.11s           2026-05-10T12:28:32
+================================================================================
+[2026-05-10T12:29:30.883+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15

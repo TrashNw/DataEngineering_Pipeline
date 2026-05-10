@@ -1,0 +1,19 @@
+[2026-05-10T12:02:18.719+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-05-10T12:02:18.745+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: gas_iot_pipeline_v2.ingest_to_minio manual__2026-05-10T12:02:17.694037+00:00 [queued]>
+[2026-05-10T12:02:18.751+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: gas_iot_pipeline_v2.ingest_to_minio manual__2026-05-10T12:02:17.694037+00:00 [queued]>
+[2026-05-10T12:02:18.752+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2026-05-10T12:02:18.761+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): ingest_to_minio> on 2026-05-10 12:02:17.694037+00:00
+[2026-05-10T12:02:18.770+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'gas_iot_pipeline_v2', 'ingest_to_minio', 'manual__2026-05-10T12:02:17.694037+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/.ipynb_checkpoints/gas_pipeline_dag-checkpoint.py', '--cfg-path', '/tmp/tmp_j_cj6mx']
+[2026-05-10T12:02:18.772+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=306) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2026-05-10T12:02:18.773+0000] {standard_task_runner.py:63} INFO - Started process 307 to run task
+[2026-05-10T12:02:18.772+0000] {standard_task_runner.py:91} INFO - Job 4: Subtask ingest_to_minio
+[2026-05-10T12:02:18.821+0000] {task_command.py:426} INFO - Running <TaskInstance: gas_iot_pipeline_v2.ingest_to_minio manual__2026-05-10T12:02:17.694037+00:00 [running]> on host 75f5cb16c6b7
+[2026-05-10T12:02:18.897+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='gas_iot_pipeline_v2' AIRFLOW_CTX_TASK_ID='ingest_to_minio' AIRFLOW_CTX_EXECUTION_DATE='2026-05-10T12:02:17.694037+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-05-10T12:02:17.694037+00:00'
+[2026-05-10T12:02:18.898+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-05-10T12:02:19.796+0000] {logging_mixin.py:188} INFO - Siker: Adatok feltöltve a MinIO Landing Zone-ba.
+[2026-05-10T12:02:19.797+0000] {python.py:237} INFO - Done. Returned value was: None
+[2026-05-10T12:02:19.798+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-05-10T12:02:19.807+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=gas_iot_pipeline_v2, task_id=ingest_to_minio, run_id=manual__2026-05-10T12:02:17.694037+00:00, execution_date=20260510T120217, start_date=20260510T120218, end_date=20260510T120219
+[2026-05-10T12:02:19.857+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-05-10T12:02:19.875+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2026-05-10T12:02:19.877+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
